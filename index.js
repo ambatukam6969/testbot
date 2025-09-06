@@ -3,10 +3,10 @@ import { handleCommand } from "./case.js";
 
 // === CONFIG ===
 // isi token dari BotFather
-const token = "ISI_TOKEN_BOT_DISINI";  
+const token = "8416044898:AAHeSa3JdW1Dz1F3J8U6ChTNe0t7C45Jo4g";  
 
 // isi dengan ID Telegram kamu (owner)
-const ownerId = 123456789;  
+const ownerId = 6405523998;  
 
 // === INIT BOT ===
 const bot = new TelegramBot(token, { polling: true });
